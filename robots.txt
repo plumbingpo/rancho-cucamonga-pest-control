@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ranchocucamongapestcontrolco.com/sitemap.xml
